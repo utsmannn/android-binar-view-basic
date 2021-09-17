@@ -1,0 +1,2 @@
+rootProject.name = "My Application - Binar Chap4"
+include ':app'
